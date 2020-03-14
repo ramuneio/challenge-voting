@@ -1,0 +1,13 @@
+:root {
+  --hsl-grey-l: 0, 0%, 90%;
+  --hsl-grey-m: 0, 0%, 70%;
+  --hsl-blue: 207, 50%, 50%;
+
+  --margin-s: 0.5rem;
+  --margin-m: 1rem;
+  --margin-l: 2rem;
+
+  --theme-subheading: hsl(var(--hsl-grey-m));
+  --theme-border: hsl(var(--hsl-grey-l));
+  --theme-link: hsl(var(--hsl-blue));
+}
